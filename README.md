@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/nandanasan77922" target="blank"><img src="https://img.shields.io/twitter/follow/nandanasan77922?logo=twitter&style=for-the-badge" alt="nandanasan77922" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/QXVs4QWLlzkAAAAC/spider-man.gif">
+
+
 - 🌱 I’m currently learning AI
 
 - 📝 I regularly write articles on [https://medium.com/@nndna9](https://medium.com/@nndna9)
