@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nandana Santhosh</h1>
-<h3 align="center">Your next door friendly neighborhood AI enthusiast!</h3>
+<h3 align="center">Your next door friendly neighborhood AI enthusiast!🕸️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nndna9&label=Profile%20views&color=0e75b6&style=flat" alt="nndna9" /> </p>
 
