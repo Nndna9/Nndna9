@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **nndna9@gmail.com**
 
-- ⚡ Fun fact **when I was young I used to think Spiderman was real!**
+- ⚡ Fun fact **when I was young I thought Spiderman was real!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
